@@ -1,0 +1,23 @@
+{
+  "name": "guild_telegram_wow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickparov/guild_telegram_wow.git"
+  },
+  "author": "nickparov.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickparov/guild_telegram_wow/issues"
+  },
+  "homepage": "https://github.com/nickparov/guild_telegram_wow#readme",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "node-telegram-bot-api": "^0.59.0"
+  }
+}
